@@ -1,4 +1,4 @@
-#Download Helper for Sentinel Hub
+# Download Helper for Sentinel Hub
 
 This repo is intended to help user to download high resolution satellite images from sentinel hub. Due to the terminologies of Sentinel hub, the images have to be segmented before download through http API.
 
